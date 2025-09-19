@@ -5,7 +5,7 @@ A curated list of works on human-centered Machine Translation. https://arxiv.org
 
 🚧 **Coming soon!** This repository is under construction and will be populated shortly.
 
-Please cite our [[paper]](https://arxiv.org/abs/2006.00632) ([[Savoldi et al., EMNLP 2024]](https://arxiv.org/abs/2502.13780)) if you find it useful in your research:
+Please cite our paper ([[Savoldi et al., EMNLP 2025]](https://arxiv.org/abs/2502.13780)) if you find it useful in your research:
 ```
 @inproceedings{savoldi-2025-translationhands,
     title = "Translation in the Hands of Many: Centering Lay Users in Machine Translation Interactions",
@@ -14,7 +14,7 @@ Please cite our [[paper]](https://arxiv.org/abs/2006.00632) ([[Savoldi et al., E
     month = nov,
     year = "2025",
     address = "Suzhou, China",
-    publisher = "International Committee on Computational Linguistics",
+    publisher = "Association for Computational Linguistics",
     url = "https://arxiv.org/abs/2502.13780"
 }
 ```
