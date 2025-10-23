@@ -14,8 +14,8 @@ You'll need a [GitHub account](https://github.com/join)!
 ## Adding a paper
 
 1. Make sure that the work is not listed already;
-2. Add the work to both "**By Factors**" and "**By Contexts**" sections;
-3. Add the corresponding badges for **user type** (e.g., "Lay/generic") and **work type** (e.g., "Experimental").
+2. Add the work to both "**By Factors**" and "**By Use Cases**" sections, following a decreasing year order;
+3. Add the corresponding badges for **work type** (e.g., "Empirical").
 
 Thanks for contributing!
 
