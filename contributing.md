@@ -14,8 +14,26 @@ You'll need a [GitHub account](https://github.com/join)!
 ## Adding a paper
 
 1. Make sure that the work is not listed already;
-2. Add the work to both "**By Factors**" and "**By Use Cases**" sections, following a decreasing year order;
-3. Add the corresponding badges for **work type** (e.g., "Empirical").
+2. Add the work to both "**By Factors**" and "**By Use Cases**" sections following a decreasing year and first author name order. The format is the following:
+
+```
+- $TITLE [[$AUTHORS, $YEAR]]($LINK_TO_PAPER) $ANNOTATIONS
+```
+
+where:
+- `$TITLE`: The title of the paper;
+- `$AUTHORS`: The authors of the paper (*Author1*, for single-authored papers; *Author1 and Author2*, if authors are 2; *Author1 et al.* if authors are more than 2);
+- `$YEAR`: The publishing year of the paper;
+- `$LINK_TO_PAPER`: A link to the page where the paper can be accessed;
+- `$ANNOTATIONS`: Icons referring to factor(s) or use case(s) for occurrences of the paper under the "By Use Cases" and "By Factors" sections, respectively.
+
+Guidelines for determining the **factor(s)**:
+
+*Does this paper concern one of the following factors?*
+- **Usability**: evaluation methods, system design, utility, “quality” value trade-off
+- **Trust**: uncertainty, believability, error detection, confidence calibration
+- **Literacy**: user education, user agency and error recovery, pre/post-editing skills, MT understanding
+- **Miscellaneous**: if none applies
 
 Thanks for contributing!
 
