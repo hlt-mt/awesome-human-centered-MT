@@ -103,7 +103,7 @@ Please cite our paper [[Savoldi et al., EMNLP 2025]](https://arxiv.org/abs/2502.
 - Machine translation in society: Insights from UK users [[Vieria et al., 2022]](https://link.springer.com/article/10.1007/s10579-022-09589-1) :white_circle:
 - Facilitating Global Team Meetings Between Language-Based Subgroups: When and How Can Machine Translation Help? [[Zhang et al., 2022]](https://dl.acm.org/doi/10.1145/3512937) :speaking_head:
 - A Pragmatic Assessment of Google Translate for Emergency Department Instructions [[Taira et al., 2021]](https://pubmed.ncbi.nlm.nih.gov/33674922/) :hospital:
-- Understanding the Societal Impacts of Machine Translation: A Critical Review of the Literature on Medical and Legal Use Cases [[Vieira et al., 2021]](https://www.tandfonline.com/doi/full/10.1080/1369118X.2020.1776370) :hospital: legal
+- Understanding the Societal Impacts of Machine Translation: A Critical Review of the Literature on Medical and Legal Use Cases [[Vieira et al., 2021]](https://www.tandfonline.com/doi/full/10.1080/1369118X.2020.1776370) :balance_scale: :hospital:
 - Leveraging Machine Translation to Support Distributed Teamwork Between Language-Based Subgroups: The Effects of Automated Keyword Tagging [[Zhang et al., 2021]](https://dl.acm.org/doi/10.1145/3411763.3451837) :speaking_head:
 - Assessing the Use of Google Translate for Spanish and Chinese Translations of Emergency Department Discharge Instructions [[Khoong et al., 2019]](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2716420) :hospital:
 - Development of Machine Translation Technology for Assisting Health Communication: A Systematic Review [[Dew et al., 2018]](https://pubmed.ncbi.nlm.nih.gov/30031857/) :hospital:
