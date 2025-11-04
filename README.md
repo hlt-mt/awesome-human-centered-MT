@@ -4,23 +4,28 @@
 
 A curated list of works on **Human-centered Machine Translation** (MT), especially focusing on MT consumed by lay users without professional translators mediation. Works are categorized along *factors* and  *use cases* dimensions. This list originates from our paper:
 
-> Beatrice Savoldi, Alan Ramponi, Matteo Negri, and Luisa Bentivogli. 2025. **Translation in the Hands of Many: Centering Lay Users in Machine Translation Interactions**. In *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing*, Suzhou, China. Association for Computational Linguistics. [[cite]](#paperclip-citation) [[paper]](https://arxiv.org/abs/2502.13780)
+> Beatrice Savoldi, Alan Ramponi, Matteo Negri, and Luisa Bentivogli. 2025. **Translation in the Hands of Many: Centering Lay Users in Machine Translation Interactions**. In *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing*, pages 13887–13900, Suzhou, China. Association for Computational Linguistics. [[cite]](#paperclip-citation) [[paper]](https://aclanthology.org/2025.emnlp-main.700/)
 
 ✨ **Contributions.** Feel free to suggest additional works by submitting a pull request — instructions [here](contributing.md) ✨
 
 ### :paperclip: Citation
 
-Please cite our paper [[Savoldi et al., EMNLP 2025]](https://arxiv.org/abs/2502.13780) if you find this curated list useful in your research:
+Please cite our paper [[Savoldi et al., EMNLP 2025]](https://aclanthology.org/2025.emnlp-main.700/) if you find this curated list useful in your research:
 ```
-@inproceedings{savoldi-2025-translationhands,
+@inproceedings{savoldi-etal-2025-translation,
     title = "Translation in the Hands of Many: Centering Lay Users in Machine Translation Interactions",
-    author = "Savoldi, Beatrice and Ramponi, Alan and Negri, Matteo and Bentivogli, Luisa",
+    author = "Savoldi, Beatrice  and
+      Ramponi, Alan  and
+      Negri, Matteo  and
+      Bentivogli, Luisa",
     booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
     month = nov,
     year = "2025",
     address = "Suzhou, China",
     publisher = "Association for Computational Linguistics",
-    url = "https://arxiv.org/abs/2502.13780"
+    url = "https://aclanthology.org/2025.emnlp-main.700/",
+    pages = "13887--13900",
+    ISBN = "979-8-89176-332-6"
 }
 ```
 
